@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 huj zopa govno
 pizda hueta suka
+=======
+ zopa govno
+pizda hueta suka
+extra line
+>>>>>>> c9c10b2f6afc2c5306a63499e1ede93e1ba5db22
